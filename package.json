@@ -4,7 +4,7 @@
   "private": true,
   "main": "build/server.js",
   "engines": {
-    "node": "10"
+    "node": "12.18.2"
   },
   "browserslist": [
     ">0.2%",
